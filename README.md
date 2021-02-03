@@ -1,17 +1,7 @@
-# flutter_coffee_login_ui
+# Flutter Coffee Login UI
 
-A new Flutter project.
+**[This repo is for a YouTube Speed Code Tutorial I made](https://youtu.be/aL4woh6h98s)**
 
-## Getting Started
+[Coffee Image on Unsplash](https://unsplash.com/photos/XtUd5SiX464)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_coffee_login_ui
+![UI](https://github.com/jaydanurwin/flutter_coffee_login_ui/blob/master/main.png?raw=true)
