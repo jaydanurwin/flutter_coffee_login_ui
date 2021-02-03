@@ -97,8 +97,10 @@ class LoginScreen extends StatelessWidget {
                                   // Can you figure out how to obscure the password text
                                   // with the eye icon as a toggle?
                                   child: TextField(
-                                    decoration:
-                                        InputDecoration(hintText: 'Password'),
+                                    decoration: InputDecoration(
+                                        hintText: 'Password',
+                                        suffixIcon:
+                                            Icon(Icons.visibility_outlined)),
                                   ),
                                 ),
                               ],
