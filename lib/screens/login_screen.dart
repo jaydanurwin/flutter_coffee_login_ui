@@ -156,7 +156,7 @@ class LoginScreen extends StatelessWidget {
                                   child: Row(
                                     children: [
                                       Text(
-                                        'Get Started',
+                                        'Login',
                                         style: TextStyle(
                                             color: Colors.white,
                                             fontWeight: FontWeight.w600),
