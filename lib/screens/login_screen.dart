@@ -46,7 +46,7 @@ class LoginScreen extends StatelessWidget {
                                 ),
                                 FlatButton(
                                   onPressed: () {
-                                    // TODO Challenge can you make this create account button push to the signup screen?
+                                    // Challenge can you make this create account button push to the signup screen?
                                     // then can you create the signup screen yourself?
                                   },
                                   child: Text(
